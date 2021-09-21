@@ -19,4 +19,4 @@ From source code location `\6502_NES_Game_THPS\THPS\`, do `..\Tools\nesasm_win32
 
 Builds the THPS.nes file that the emulator/everdrive cartridge will use
 
-![SpriteSheet](https://github.com/Richard-Steele-Bluefruit/6502_NES_Game_THPS/SpriteSheet.png "Sprite sheet")
+![SpriteSheet](https://github.com/Richard-Steele-Bluefruit/6502_NES_Game_THPS/blob/main/SpriteSheet.png "Sprite sheet")
