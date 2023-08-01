@@ -1,5 +1,7 @@
 # 6502NES Game THPS
 
+![](https://github.com/Richard-Steele-Bluefruit/6502_NES_Game_THPS/blob/main/thpsGameGIF.gif)
+
 [FCEUX](https://fceux.com/web/download.html) is the NES emulator that I used in the lightning talk.
 
 Controls are customisable, but I think are: (F and G may be D and F... best check, I think I changed mine from defaults)
